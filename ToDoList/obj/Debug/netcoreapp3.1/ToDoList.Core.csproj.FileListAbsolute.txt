@@ -1,0 +1,12 @@
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.csprojAssemblyReference.cache
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfo.cs
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\Rafae\Documents\Infnet\DOTNET\Desenvolvimento com Serviços WCF e Microsoft Azure [21E3_3]\AtAzure\ToDoList\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb
